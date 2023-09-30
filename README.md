@@ -1,1 +1,0 @@
-# scan_factory_app
